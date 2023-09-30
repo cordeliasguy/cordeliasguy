@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer.
 --------------
 
-Junior Software Developer, with 1 year of professional experience in Web Development and a strong focus on Frontend Engineering. Proficient in using React.js and its ecosystem to transform wireframes/design into fully functional websites.
+Software Developer, with 2 year of professional experience in Web Development and a strong focus on Frontend Engineering. Proficient in using React.js and its ecosystem to transform wireframes/design into fully functional websites.
 
 * 🌍  I'm based in Escaldes-Engordany, Andorra.
 * 🖥️  See my portfolio at [cordeliasguy-homepage](https://cordeliasguy-homepage.vercel.app/)
-* 🧠  I'm learning Mantine, React Query, TypeScript, Recoil.
+* 🧠  I'm learning tRPC, Drizzle ORM.
 
 ### Skills
 
