@@ -6,7 +6,7 @@ Web Developer.
 
 Software Developer, with 3+ years of professional experience in Web Development and a strong focus on Frontend Engineering. Proficient in using React.js and its ecosystem to transform wireframes/design into fully functional websites.
 
-* 🌍  I'm based in Escaldes-Engordany, Andorra.
+* 🌍  I'm based in Sant Julia de Loria, Andorra.
 * 🖥️  See my portfolio at [cordeliasguy-homepage](https://cordeliasguy-homepage.vercel.app/)
 * 🧠  I'm learning TanStack Start.
 
